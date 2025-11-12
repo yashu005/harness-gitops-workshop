@@ -9,3 +9,4 @@ gitops:
     config:
       clusterConnectionType: IN_CLUSTER
   agentIdentifier: AGENT_NAME
+  
